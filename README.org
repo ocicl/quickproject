@@ -1,0 +1,9 @@
+* quickproject
+
+Create a CL project skeleton
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/xach/quickproject.git |
+| commit  | 1bec788                                      |
+| systems | quickproject                                 |
+|---------+----------------------------------------------|
